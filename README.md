@@ -1,0 +1,2 @@
+# Handwritten-digit-recognition-using-neural-network
+This project uses MNIST dataset and it made with the help of neural network.It basically detects the scanned images of handwritten digits.The key feature to make this project a bit different is , it not only detects scanned images of handwritten digits but also allows writing digits on the screen with the help of an integrated GUI for recognition.
